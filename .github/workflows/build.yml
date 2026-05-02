@@ -1,4 +1,4 @@
-name: Build APK
+apk Build APK
 on: [push, workflow_dispatch]
 
 jobs:
